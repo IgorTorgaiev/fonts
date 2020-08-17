@@ -1,0 +1,37 @@
+/* 1. Font-Family */
+
+/* p.one {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p.two {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p.three {
+    font-family: 'Courier New', Courier, monospace
+} */
+
+/* 4. Font-Variant */
+
+/* .one {
+    font-variant: small-caps;
+}
+
+.two {
+    font-variant: inherit;
+}
+
+.three {
+    font-variant: normal;
+} */
+
+/* 6. Font-Shorthand */
+
+/* .first {
+    font: 20px 'Times Roman', sans-serif;
+}
+
+.second {
+    font: bold 1.875em Georgia;
+} */
